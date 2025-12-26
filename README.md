@@ -1,3 +1,40 @@
+# Pull Up Store - Frontend
+
+Premium streetwear e-commerce store with minimal, fashion-forward aesthetic.
+
+## Tech Stack
+
+- **Framework**: Next.js 16 (App Router)
+- **React**: 19.2.3
+- **TypeScript**: 5.x
+- **Styling**: Tailwind CSS v4
+- **UI Components**: shadcn/ui
+- **Icons**: Lucide React
+
+## Project Structure
+
+```
+/app              - Next.js app directory
+/components       - React components
+  /ui             - shadcn/ui components
+/lib              - Utility functions
+/public           - Static assets
+```
+
+## Design Philosophy
+
+- **Minimal & Elegant**: Clean layouts, generous whitespace
+- **Fashion-Forward**: High-quality imagery, sophisticated typography
+- **Premium Feel**: Smooth animations, attention to detail
+- **Mobile-First**: Responsive design for all devices
+
+## Documentation
+
+- 📋 [Development Plan](./DEVELOPMENT_PLAN.md) - Phased development roadmap
+- 🎨 [Design System](./DESIGN_SYSTEM.md) - Complete design specifications
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
